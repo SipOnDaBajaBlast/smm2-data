@@ -1,0 +1,18 @@
+{
+ "gamedata/game_00.data": {
+  "parts": 57,
+  "size": 1073280022
+ },
+ "gamedata/game_01.data": {
+  "parts": 56,
+  "size": 1061355598
+ },
+ "gamedata/game_02.data": {
+  "parts": 51,
+  "size": 961814658
+ },
+ "Super Mario Maker 2.wasm": {
+  "parts": 10,
+  "size": 184383472
+ }
+}
